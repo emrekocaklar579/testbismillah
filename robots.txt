@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://daftest.lansa.com/sitemap.xml
