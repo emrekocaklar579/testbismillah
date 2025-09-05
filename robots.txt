@@ -2,4 +2,4 @@ User-agent: *
 Disallow: 
 
 
-Sitemap:https://selcuksports.wine/sitemap.xml
+Sitemap: https://selcuksports.wine/sitemap.xml
