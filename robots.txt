@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://daftest.lansa.com/sitemap.xml
+
+Sitemap:https://selcuksports.wine/sitemap.xml
